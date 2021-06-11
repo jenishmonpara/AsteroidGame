@@ -1,7 +1,7 @@
 # AsteroidGame
 An Atari asteroid shooting game built using JavaScript.
 
-<a href="//imgur.com/a/rBq7h7t">GIF</a></blockquote>
+<img src = "https://www.dropbox.com/s/8nr8t72ly1dcosa/Asteroid%20Game%20.gif?dl=0">
 
 
 
