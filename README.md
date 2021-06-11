@@ -1,6 +1,8 @@
 # AsteroidGame
 An Atari asteroid shooting game built using JavaScript.
 
+[Live!](https://jenishmonpara.github.io/AsteroidGame/)
+
 ## Running the game:
 * Open the file Asteroid Game.html in any browser
 
