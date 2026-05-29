@@ -8,7 +8,7 @@ An Atari asteroid shooting game built using JavaScript.
 [Play Game!](https://jenishmonpara.github.io/AsteroidGame/)
 
 ## Running the game:
-* Open the file index.html in any browser or click on "Play Game!" button above
+* Visit the [landing page](https://jenishmonpara.github.io/AsteroidGame/) and hit **PLAY NOW**, or open `game.html` directly in any browser.
 
 ## Controls
 
